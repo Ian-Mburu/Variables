@@ -121,3 +121,8 @@ console.log(z)
         let message2 = (age2 <= 18) ? "you are an adult " : "you are not an adult"
 
         console.log(message2)
+
+
+       // const cars = ["audi", "benz", "cruiser"]  => Array
+
+       // const lang = {"python", "c++", "javascript"}  => Object
